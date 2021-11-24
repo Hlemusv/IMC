@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="msjBotonIMC">Calcular IMC</string>
+    <string name="msjTituloIMC">IMC</string>
+    <string name="msjDigPEso">Digite Peso(Kg)</string>
+    <string name="msjDigEstatura">Digite Estatura(m)</string>
+    <string name="msjTituloPrincipal">Bienvenido a IMC</string>
+    <string name="msjMenu">Menu Principal</string>
+    <string name="msjOrdenar">Ordenar Pizza</string>
+    <string name="msjTopping">Pizza Topping</string>
+    <string name="msjSuprem">Suprem $1000</string>
+    <string name="msjHawaiian">Hawaiian $800</string>
+    <string name="msjVegetarian">Vegetarian $700</string>
+    <string name="msjSauce">Pizza Sauce</string>
+    <string name="msjExtras">Extras</string>
+    <string name="msjExtraCheese">Extra Cheese $200</string>
+    <string name="msjGluten">Gluten Free $100</string>
+
+    <string-array name="opciones">
+        <item>Tomato $150</item>
+        <item>Barbeque $160</item>
+        <item>Mayonnaise $140</item>
+    </string-array>
+</resources>
